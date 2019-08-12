@@ -1,0 +1,28 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body {
+	background: black;
+}
+
+
+.member__header {
+	font-size: 35px;
+	color: white;
+}
+
+
+.member__text {
+	border: 2px solid cyan;
+
+}
+
+.member__label {
+	font-size: 20px;
+	margin: 50px;
+	color: white;
+}
+
